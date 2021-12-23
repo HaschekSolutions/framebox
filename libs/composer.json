@@ -1,0 +1,6 @@
+{
+    "require": {
+        "clancats/hydrahon": "^1.1",
+        "mustache/mustache": "^2.14"
+    }
+}

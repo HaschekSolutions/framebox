@@ -1,0 +1,13 @@
+{{% FILTERS }}
+<div class="container py-3">
+    This is the rendered example of a page. It was created by {{ creator }} at {{ creationtime }}.
+
+    The creators favorite things are:
+
+    <ul>
+        {{# favorites }}
+            <li><strong>{{ thing | case.upper }}</strong>, because {{ reason }}</li>
+        {{/ favorites }}
+    </ul>
+
+</div>
