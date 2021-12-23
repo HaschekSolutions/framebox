@@ -1,6 +1,4 @@
-- Kann man jitsi sprechzeit ablesen?
-- Jitsi integration
-
+Internal tool only. Probably not interesting to you :)
 
 # Technologies
 
